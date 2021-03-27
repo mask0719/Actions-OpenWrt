@@ -58,6 +58,14 @@ CONFIG_PACKAGE_libopus=y
 CONFIG_PACKAGE_libx264=y
 CONFIG_PACKAGE_ffmpeg=y
 CONFIG_PACKAGE_ffprobe=y
+CONFIG_PACKAGE_luci-app-ddns=y
+CONFIG_PACKAGE_luci-app-adbyby-plus=y
+CONFIG_PACKAGE_luci-app-ssr-plus=y
+CONFIG_PACKAGE_ddns-scripts_aliyun=y
+CONFIG_PACKAGE_shadowsocks-libev-ss-redir=y
+CONFIG_PACKAGE_luci-app-unblockmusic=y
+CONFIG_PACKAGE_luci-app-vlmcsd=y
+CONFIG_PACKAGE_luci-app-turboacc=y
 EOF
 
 # 常用软件 默认已启用
