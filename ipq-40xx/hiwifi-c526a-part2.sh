@@ -59,6 +59,7 @@ CONFIG_PACKAGE_luci-app-turboacc=y
 CONFIG_PACKAGE_luci-app-ipsec-vpnd=y
 CONFIG_PACKAGE_ddns-scripts_dnspod=y
 CONFIG_PACKAGE_v2ray=y
+CONFIG_PACKAGE_luci-app-vssr=y
 EOF
 
 # 常用软件 默认已启用
